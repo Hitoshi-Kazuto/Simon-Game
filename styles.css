@@ -26,9 +26,24 @@ body {
   border-radius: 20%;
 }
 
+.btn-start{
+  text-align: center;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 25px;
+  margin: 25px;
+  display: inline-block;
+  height: 50px;
+  width: 200px;
+  border: 5px solid black;
+  border-radius: 5%;
+}
 .game-over {
   background-color: red;
   opacity: 0.8;
+}
+
+.white{
+  background-color: grey;
 }
 
 .red {
